@@ -1,5 +1,7 @@
 # particleSpirales
 
+Generates spirals by setting specific points. Then does a smooth zoom-out.
+
 ![spiral](https://github.com/user-attachments/assets/7ced7827-0cfd-46dd-994d-0a8ba426d50c)
 
 
