@@ -1,0 +1,11 @@
+# .gitignore for three.js.components with parcel / three.js
+
+# Dependency and distro directories
+node_modules/
+dist/
+.parcel-cache
+
+.git/
+
+# JSON
+*.json
