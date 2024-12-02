@@ -1,5 +1,8 @@
 # particleSpirales
 
+![spiral](https://github.com/user-attachments/assets/7ced7827-0cfd-46dd-994d-0a8ba426d50c)
+
+
 ## How to run ##
 
 - Check if three.js and parcel are installed:
